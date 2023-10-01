@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    
+}
+span{
+    color: greenyellow;
+}
+p{
+    color: white;
+}
+.text{
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    color: white;
+}
+.container well{
+    color: black;
+}
+h2{
+    color: black;
+}
+h3{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+header{
+   background-color:grey;
+}
